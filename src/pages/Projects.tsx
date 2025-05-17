@@ -4,36 +4,28 @@ import { ArrowLeft, ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-stack online shopping platform built with React, Node.js, and PostgreSQL. Features include user authentication, product management, shopping cart, and secure checkout.',
+    title: 'Banking System – Microservices Architecture (Java Spring Boot)',
+    description: 'This project is a modular banking system developed using Java and Spring Boot, following a microservices architecture. It features independently deployable services for account management, transactions, customer onboarding, and authentication. The system ensures scalability, maintainability, and efficient communication between services through REST APIs and service discovery. It incorporates best practices such as centralized configuration, circuit breakers, and API gateway integration.',
     image: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['React', 'Node.js', 'PostgreSQL', 'Stripe', 'TypeScript'],
-    demoUrl: 'https://demo.example.com',
-    githubUrl: 'https://github.com/example/ecommerce'
+    tags: ['Java', 'Thymeleaf', 'Spring boot', 'PostgreSQL'],
+    demoUrl: '',
+    githubUrl: 'https://github.com/Kamal010110011000/no-bank'
   },
   {
-    title: 'Task Management App',
-    description: 'A productivity tool for managing tasks and projects. Features include drag-and-drop task organization, team collaboration, and real-time updates.',
+    title: 'Simple Question & Answer App (PHP)',
+    description: 'A lightweight web application built using PHP that allows users to post questions and provide answers. The app features basic user interaction, question submission, and answer management with a simple and intuitive interface. Designed for ease of use and quick deployment, it demonstrates core PHP and MySQL integration for dynamic content handling.',
     image: 'https://images.pexels.com/photos/3243/pen-calendar-to-do-checklist.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['React', 'Firebase', 'Tailwind CSS', 'TypeScript'],
-    demoUrl: 'https://demo.example.com',
-    githubUrl: 'https://github.com/example/tasks'
+    tags: ['PHP','vue', 'mysql', 'jquery'],
+    demoUrl: '',
+    githubUrl: 'https://github.com/Kamal010110011000/QA-app'
   },
   {
-    title: 'Weather Dashboard',
-    description: 'A real-time weather tracking application that provides detailed weather information and forecasts for any location worldwide.',
+    title: 'Weather App',
+    description: 'A simple Android application that fetches and displays real-time weather data using public weather APIs. The app provides current weather conditions, temperature, and location-based forecasts with a clean and user-friendly interface. Built with Android Studio, it demonstrates API integration, location services, and responsive UI design.',
     image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['React', 'OpenWeather API', 'Chart.js', 'TypeScript'],
-    demoUrl: 'https://demo.example.com',
-    githubUrl: 'https://github.com/example/weather'
-  },
-  {
-    title: 'Social Media Analytics',
-    description: 'A dashboard for tracking and analyzing social media metrics across multiple platforms. Features include custom reports and data visualization.',
-    image: 'https://images.pexels.com/photos/7654069/pexels-photo-7654069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    tags: ['React', 'D3.js', 'Node.js', 'MongoDB'],
-    demoUrl: 'https://demo.example.com',
-    githubUrl: 'https://github.com/example/analytics'
+    tags: ['Android', 'OpenWeather API', 'Java'],
+    demoUrl: '',
+    githubUrl: 'https://github.com/Kamal010110011000/sunshine-androidapp'
   }
 ];
 

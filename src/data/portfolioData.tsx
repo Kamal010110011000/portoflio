@@ -36,7 +36,7 @@ export const portfolioData: CardData[] = [
       <div className="space-y-3">
         <div>
           <h3 className="font-semibold text-slate-800">Full Stack Developer</h3>
-          <p className="text-sm text-slate-600">Bimapay Finsure. • 2020(Apr)-Present</p>
+          <p className="text-sm text-slate-600">Bimapay Finsure. • 2024(Apr)-Present</p>
         </div>
         <div>
           <h3 className="font-semibold text-slate-800">Full Stack Developer</h3>
